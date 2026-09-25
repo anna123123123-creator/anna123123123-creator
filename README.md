@@ -17,7 +17,10 @@ AI Engineer, Web Developer and Web Designer with **5 years of fully remote exper
 
 ### 🧰 Toolbox
 
-`Python` `PyTorch` `LangChain` `OpenAI API` `RAG` `LLM fine-tuning` `React` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `FastAPI` `PostgreSQL` `Docker` `Figma` `Git`
+- **AI integration** — retrieval-augmented search (chunking, embeddings, cosine ranking), LLM API integration, prompt and context design, transformers.js / ONNX in the browser
+- **Front-end** — JavaScript (ES6+), HTML/CSS, Canvas and SVG rendering, Web Audio and Web Speech APIs, responsive UI, no-build-step delivery
+- **Design & content** — Figma to production code, SEO, web editing
+- **Also work with** — React, Next.js, TypeScript, Node.js, Python, PostgreSQL, Docker, Git
 
 ### 🧪 Built in the open
 
