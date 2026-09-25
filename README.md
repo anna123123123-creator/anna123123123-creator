@@ -48,7 +48,7 @@ Browser tools I ship in public — no backend, no signup, no build step, each wi
 ### 📫 Get in touch
 
 - 🌍 **Manila, Philippines** — available for remote work worldwide
-- 🔗 **[inzyxuashop.com](https://inzyxuashop.com)**
+- 🔗 **Product catalogue & storefront** — [inzyxuashop.com](https://inzyxuashop.com)
 - 📱 **WhatsApp** [+63 947 371 8280](https://wa.me/639473718280)
 - ✉️ **Email** evcdecd@gmail.com
 
