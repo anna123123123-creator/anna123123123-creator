@@ -32,7 +32,7 @@ Browser tools I ship in public — no backend, no signup, no build step, each wi
 | **Resume ⇄ JD matcher** — keyword match scoring | [open](https://anna123123123-creator.github.io/resume-match/) |
 | **Text to speech** — reads text aloud in the browser | [open](https://anna123123123-creator.github.io/text-to-speech/) |
 
-<sub>51 public repositories, all but one with a live demo.</sub>
+<sub>52 public repositories, 50 of them with a live demo.</sub>
 
 ---
 
