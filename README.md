@@ -8,6 +8,10 @@ Software Engineer with **5 years of fully remote experience**, working with dist
 
 ### 📈 Highlights
 
+- Built **[rag-client](https://github.com/anna123123123-creator/rag-client)** — the React 19 +
+  Next.js 16 + TypeScript front-end for it: one typed API boundary, accessible states for loading,
+  empty and error, and search-term highlighting. Pushed as its own repo with a passing production
+  build.
 - Built **[rag-server](https://github.com/anna123123123-creator/rag-server)** — a FastAPI + SQLite
   retrieval service: sentence-aware chunking, server-side ONNX embeddings, a REST search API,
   cascading deletes, a Dockerfile that bakes the model into the image, and a measured
@@ -33,7 +37,8 @@ Browser tools I ship in public — no backend, no signup, no build step, each wi
 
 | Project | Where |
 | --- | --- |
-| **[rag-server](https://github.com/anna123123123-creator/rag-server)** — the same idea as a service: FastAPI + SQLite, server-side embeddings, REST API, Dockerised | [source](https://github.com/anna123123123-creator/rag-server) |
+| **[rag-server](https://github.com/anna123123123-creator/rag-server)** — retrieval as a service: FastAPI + SQLite, server-side embeddings, REST API, Dockerised | [source](https://github.com/anna123123123-creator/rag-server) |
+| **[rag-client](https://github.com/anna123123123-creator/rag-client)** — the React 19 + Next.js 16 + TypeScript client for that API | [source](https://github.com/anna123123123-creator/rag-client) |
 | **[Browser RAG](https://github.com/anna123123123-creator/browser-rag)** — asks your own documents a question and returns the passages that answer it, entirely client-side | [demo](https://anna123123123-creator.github.io/browser-rag/) |
 | **FAQ bot** — keyword-matching Q&A assistant | [open](https://anna123123123-creator.github.io/faq-bot/) |
 | **Outline → mind map** — parses an indented outline into a tree and lays it out in ~200 lines of vanilla JS | [open](https://anna123123123-creator.github.io/outline2mindmap/) |
@@ -41,7 +46,7 @@ Browser tools I ship in public — no backend, no signup, no build step, each wi
 | **Resume ⇄ JD matcher** — keyword match scoring | [open](https://anna123123123-creator.github.io/resume-match/) |
 | **Text to speech** — reads text aloud in the browser | [open](https://anna123123123-creator.github.io/text-to-speech/) |
 
-<sub>53 public repositories, 50 of them with a live demo.</sub>
+<sub>54 public repositories, 50 of them with a live demo.</sub>
 
 ---
 
