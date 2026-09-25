@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Sam — AI Engineer, Web Developer &amp; Web Designer" width="100%" />
+  <img src="assets/banner.svg" alt="Sam — Software Engineer, full-stack web and AI integration" width="100%" />
 </div>
 
 ### Hi, I'm Sam 👋
 
-AI Engineer, Web Developer and Web Designer with **5 years of fully remote experience**, working with distributed teams across time zones. I build LLM-powered features, production web applications, and the UI/UX that sits on top of them.
+Software Engineer with **5 years of fully remote experience**, working with distributed teams across time zones. I own the whole path: the interface, the API behind it, the schema, and the container it ships in — most recently a retrieval-augmented search service and a client-side counterpart to it.
 
 ### 📈 Highlights
 
