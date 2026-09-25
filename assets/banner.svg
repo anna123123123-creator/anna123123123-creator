@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img"
+     aria-label="Sam — AI Engineer, Web Developer and Web Designer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111c30"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.12" r="0.75">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-width="1" stroke-opacity="0.28"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- right: terminal / pipeline panel -->
+  <g transform="translate(736 62)">
+    <rect x="0" y="0" width="404" height="196" rx="14" fill="#0b1220" stroke="#30363d" stroke-width="1.5"/>
+    <rect x="0" y="0" width="404" height="34" rx="14" fill="#161b22"/>
+    <rect x="0" y="20" width="404" height="14" fill="#161b22"/>
+    <circle cx="24" cy="17" r="5" fill="#ff7b72"/>
+    <circle cx="42" cy="17" r="5" fill="#d29922"/>
+    <circle cx="60" cy="17" r="5" fill="#3fb950"/>
+    <text x="84" y="21" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8b949e">assistant_pipeline.py</text>
+
+    <g font-family="Consolas, Menlo, monospace" font-size="12.5">
+      <text x="22" y="62" fill="#7ee787">$</text>
+      <text x="40" y="62" fill="#c9d1d9">python assistant_pipeline.py</text>
+
+      <text x="22" y="90" fill="#7ee787">✓</text>
+      <text x="42" y="90" fill="#8b949e">1,204 docs indexed</text>
+
+      <text x="22" y="114" fill="#7ee787">✓</text>
+      <text x="42" y="114" fill="#8b949e">retrieval → top 5 chunks</text>
+
+      <text x="22" y="138" fill="#7ee787">✓</text>
+      <text x="42" y="138" fill="#8b949e">llm.generate() 0.8s</text>
+
+      <text x="22" y="162" fill="#58a6ff">→</text>
+      <text x="42" y="162" fill="#c9d1d9">streaming response</text>
+      <rect x="182" y="152" width="8" height="13" fill="#58a6ff"/>
+    </g>
+  </g>
+
+  <!-- floating chips -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13">
+    <rect x="668" y="30" width="120" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+    <text x="728" y="50" text-anchor="middle" fill="#7ee787">LangChain</text>
+    <rect x="1052" y="264" width="116" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+    <text x="1110" y="284" text-anchor="middle" fill="#d2a8ff">Next.js</text>
+  </g>
+
+  <!-- left: identity -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="92" font-size="14" letter-spacing="6" fill="#8b949e">HELLO, I'M</text>
+    <text x="60" y="166" font-size="76" font-weight="700" fill="#f0f6fc">Sam</text>
+    <rect x="64" y="190" width="290" height="5" rx="2.5" fill="url(#line)"/>
+    <text x="64" y="232" font-size="24" fill="#c9d1d9">AI Engineer · Web Developer &amp; Designer</text>
+    <text x="64" y="268" font-size="16" fill="#8b949e">5 years remote · LLM integration, modern web, UI/UX</text>
+  </g>
+</svg>
