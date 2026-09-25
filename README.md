@@ -8,6 +8,10 @@ AI Engineer, Web Developer and Web Designer with **5 years of fully remote exper
 
 ### 📈 Highlights
 
+- Built **[rag-server](https://github.com/anna123123123-creator/rag-server)** — a FastAPI + SQLite
+  retrieval service: sentence-aware chunking, server-side ONNX embeddings, a REST search API,
+  cascading deletes, a Dockerfile that bakes the model into the image, and a measured
+  confidence threshold so the API can answer "nothing here" instead of guessing.
 - Built **[Browser RAG](https://github.com/anna123123123-creator/browser-rag)** — retrieval-augmented
   search that runs entirely in the client: own chunking with sentence overlap, local
   MiniLM embeddings on WebAssembly, cosine ranking. No server, no API key, nothing uploaded.
@@ -17,25 +21,27 @@ AI Engineer, Web Developer and Web Designer with **5 years of fully remote exper
 
 ### 🧰 Toolbox
 
-- **AI integration** — retrieval-augmented search (chunking, embeddings, cosine ranking), LLM API integration, prompt and context design, transformers.js / ONNX in the browser
+- **Back-end & data** — Python, FastAPI, REST API design, SQLite (schema design, foreign keys, indexes, cascading deletes), Docker and docker-compose, ONNX Runtime
+- **AI integration** — retrieval-augmented search (chunking, embeddings, cosine ranking), LLM API integration, prompt and context design, measured confidence thresholds
 - **Front-end** — JavaScript (ES6+), HTML/CSS, Canvas and SVG rendering, Web Audio and Web Speech APIs, responsive UI, no-build-step delivery
 - **Design & content** — Figma to production code, SEO, web editing
-- **Also work with** — React, Next.js, TypeScript, Node.js, Python, PostgreSQL, Docker, Git
+- **Also work with** — Node.js, PostgreSQL, React, Next.js, TypeScript, Git
 
 ### 🧪 Built in the open
 
 Browser tools I ship in public — no backend, no signup, no build step, each with a live demo:
 
-| Tool | Live demo |
+| Project | Where |
 | --- | --- |
-| **[Browser RAG](https://github.com/anna123123123-creator/browser-rag)** — asks your own documents a question and returns the passages that answer it, entirely client-side | [open](https://anna123123123-creator.github.io/browser-rag/) |
+| **[rag-server](https://github.com/anna123123123-creator/rag-server)** — the same idea as a service: FastAPI + SQLite, server-side embeddings, REST API, Dockerised | [source](https://github.com/anna123123123-creator/rag-server) |
+| **[Browser RAG](https://github.com/anna123123123-creator/browser-rag)** — asks your own documents a question and returns the passages that answer it, entirely client-side | [demo](https://anna123123123-creator.github.io/browser-rag/) |
 | **FAQ bot** — keyword-matching Q&A assistant | [open](https://anna123123123-creator.github.io/faq-bot/) |
 | **Outline → mind map** — parses an indented outline into a tree and lays it out in ~200 lines of vanilla JS | [open](https://anna123123123-creator.github.io/outline2mindmap/) |
 | **Outline → slides** — outline to slide deck preview | [open](https://anna123123123-creator.github.io/outline2slides/) |
 | **Resume ⇄ JD matcher** — keyword match scoring | [open](https://anna123123123-creator.github.io/resume-match/) |
 | **Text to speech** — reads text aloud in the browser | [open](https://anna123123123-creator.github.io/text-to-speech/) |
 
-<sub>52 public repositories, 50 of them with a live demo.</sub>
+<sub>53 public repositories, 50 of them with a live demo.</sub>
 
 ---
 
