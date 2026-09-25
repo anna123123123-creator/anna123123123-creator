@@ -15,9 +15,9 @@ AI Engineer, Web Developer and Web Designer with **5 years of fully remote exper
 - Built **[Browser RAG](https://github.com/anna123123123-creator/browser-rag)** — retrieval-augmented
   search that runs entirely in the client: own chunking with sentence overlap, local
   MiniLM embeddings on WebAssembly, cosine ranking. No server, no API key, nothing uploaded.
-- Integrated LLM-powered conversational assistants and automated content pipelines into live products, cutting response latency by **40%**.
-- Designed and delivered **15+** custom web applications and e-commerce platforms, from Figma wireframes through to production code.
-- Held a **98%** client satisfaction rate across international contract work, coordinating asynchronously across global time zones.
+- Integrated LLM-powered conversational assistants and automated content pipelines into client products, writing the retrieval and context layers myself.
+- Shipped 50+ open-source browser tools and publish a catalogue of 60+ business-system and AI source-code products through my own storefront, handling delivery and after-sales directly.
+- 5 years of remote contract work with international clients, coordinating asynchronously across time zones and documenting decisions in writing.
 
 ### 🧰 Toolbox
 
